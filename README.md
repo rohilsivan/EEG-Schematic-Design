@@ -77,7 +77,6 @@ The EEG front-end circuit consists of:
    - Project introduction
    - Literature survey
    - Block diagrams
-   - MATLAB code samples
    - Complete results and references
 3. Recreate circuits in **Cadence Virtuoso** using the provided specs.
 
