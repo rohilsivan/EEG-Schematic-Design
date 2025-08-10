@@ -1,5 +1,5 @@
 # EEG Schematic Design – Cadence Virtuoso  
-** Analog EEG Sensor Project**
+   Analog EEG Sensor Project
 
 ---
 
